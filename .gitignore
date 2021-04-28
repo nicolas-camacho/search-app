@@ -1,3 +1,7 @@
 #NODE MODULES
 client/node_modules
 server/node_modules
+
+##CLIENT
+client/.parcel-cache
+client/dist

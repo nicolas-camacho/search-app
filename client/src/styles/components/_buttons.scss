@@ -1,0 +1,11 @@
+.searchButton {
+    border: none;
+    height: 2.5rem;
+    border-radius: 0 2px 2px 0;
+    display: grid;
+    place-items: center;
+
+    .searchButton__logo {
+        width: 70%;
+    }
+}
